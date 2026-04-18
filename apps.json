@@ -17,7 +17,7 @@
   { "id": "outlook", "name": "Outlook", "desc": "Microsoft email service.", "url": "https://outlook.com", "icon": "https://outlook.com/favicon.ico", "banner": "https://images.example.com/outlook.png", "tag": "Productivity" },
   { "id": "notion", "name": "Notion", "desc": "Notes and organization.", "url": "https://notion.so", "icon": "https://notion.so/favicon.ico", "banner": "https://images.example.com/notion.png", "tag": "Productivity" },
   { "id": "trello", "name": "Trello", "desc": "Task management.", "url": "https://trello.com", "icon": "https://trello.com/favicon.ico", "banner": "https://images.example.com/trello.png", "tag": "Productivity" },
-  { "id": "slack", "name": "Slack", "desc": "Team communication.", "url": "https://slack.com", "icon": "https://slack.com/favicon.ico", "banner": "https://images.example.com/slack.png", "tag": "Productivity" },
+  { "id": "slack", "name": "Slack", "desc": "Talking.", "url": "https://slack.com", "icon": "https://slack.com/favicon.ico", "banner": "https://images.example.com/slack.png", "tag": "Productivity" },
 
   { "id": "github", "name": "GitHub", "desc": "Code hosting and projects.", "url": "https://github.com", "icon": "https://github.com/favicon.ico", "banner": "https://images.example.com/github.png", "tag": "Development" },
   { "id": "gitlab", "name": "GitLab", "desc": "DevOps platform.", "url": "https://gitlab.com", "icon": "https://gitlab.com/favicon.ico", "banner": "https://images.example.com/gitlab.png", "tag": "Development" },
@@ -35,6 +35,6 @@
   { "id": "paypal", "name": "PayPal", "desc": "Online payments.", "url": "https://paypal.com", "icon": "https://paypal.com/favicon.ico", "banner": "https://images.example.com/paypal.png", "tag": "Finance" },
   { "id": "cashapp", "name": "Cash App", "desc": "Money transfers.", "url": "https://cash.app", "icon": "https://cash.app/favicon.ico", "banner": "https://images.example.com/cashapp.png", "tag": "Finance" },
 
-  { "id": "zoom", "name": "Zoom", "desc": "Online meetings.", "url": "https://zoom.us", "icon": "https://zoom.us/favicon.ico", "banner": "https://images.example.com/zoom.png", "tag": "Communication" },
-  { "id": "skype", "name": "Skype", "desc": "Video calls.", "url": "https://skype.com", "icon": "https://skype.com/favicon.ico", "banner": "https://images.example.com/skype.png", "tag": "Communication" }
+  { "id": "zoom", "name": "Zoom", "desc": "Online meetings.", "url": "https://zoom.us", "icon": "https://zoom.us/favicon.ico", "banner": "https://images.example.com/zoom.png", "tag": "Talk" },
+  { "id": "skype", "name": "Skype", "desc": "Video calls.", "url": "https://skype.com", "icon": "https://skype.com/favicon.ico", "banner": "https://images.example.com/skype.png", "tag": "Talk" }
 ]

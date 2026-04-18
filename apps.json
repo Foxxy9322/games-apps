@@ -10,7 +10,7 @@
 
   { "id": "youtube", "name": "YouTube", "desc": "Online videos.", "url": "https://youtube.com", "icon": "https://youtube.com/favicon.ico", "banner": "https://images.example.com/youtube.png", "tag": "Media" },
   { "id": "netflix", "name": "Netflix", "desc": "Movie and TV streaming.", "url": "https://netflix.com", "icon": "https://netflix.com/favicon.ico", "banner": "https://images.example.com/netflix.png", "tag": "Media" },
-  { "id": "spotify", "name": "Spotify", "desc": "Music streaming.", "url": "https://spotify.com", "icon": "https://spotify.com/favicon.ico", "banner": "https://images.example.com/spotify.png", "tag": "Media" },
+  { "id": "spotify", "name": "Spotify", "desc": "Music streaming.", "url": "https://spotify.com", "icon": "https://open.spotify.com/favicon.ico", "banner": "https://images.example.com/spotify.png", "tag": "Media" },
   { "id": "twitch", "name": "Twitch", "desc": "Live streaming.", "url": "https://twitch.tv", "icon": "https://twitch.tv/favicon.ico", "banner": "https://images.example.com/twitch.png", "tag": "Media" },
 
   { "id": "gmail", "name": "Gmail", "desc": "Google email service.", "url": "https://mail.google.com", "icon": "https://mail.google.com/favicon.ico", "banner": "https://images.example.com/gmail.png", "tag": "Productivity" },

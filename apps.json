@@ -1,4 +1,4 @@
-[
+{
 { "id": "discord", "name": "Discord", "desc": "Chat, voice, and communities.", "url": "https://discord.com", "icon": "https://discord.com/assets/favicon.ico", "banner": "https://images.example.com/discord-banner.png", "tag": "Social" },
 { "id": "canva", "name": "Canva", "desc": "Online graphic design editor.", "url": "https://canva.com", "icon": "https://static.canva.com/favicon.ico", "banner": "https://images.example.com/canva-banner.png", "tag": "Productivity" },
 { "id": "youtube", "name": "YouTube", "desc": "Video platform.", "url": "https://youtube.com", "icon": "https://www.youtube.com/favicon.ico", "banner": "https://images.example.com/youtube-banner.png", "tag": "Entertainment" },
@@ -20,4 +20,4 @@
 { "id": "tiktok", "name": "TikTok", "desc": "Short Videos.", "url": "https://tiktok.com", "icon": "https://www.tiktok.com/favicon.ico", "banner": "https://images.example.com/tiktok-banner.png", "tag": "Entertainment" }, 
 { "id": "facebook", "name": "Facebook", "desc": "Social network.", "url": "https://facebook.com", "icon": "https://www.facebook.com/favicon.ico", "banner": "https://images.example.com/facebook-banner.png", { "tag": "Social" },
 { "id": "linkedin", "name": "LinkedIn", "desc": "Professional social network.", "url": "https://linkedin.com", "icon": "https://static.licdn.com/sc/h/al2o9zrvru7gj/8/favicon.ico", "banner": "https://images.example.com/linkedin-banner.png", "tag": "Social" },
-]
+}

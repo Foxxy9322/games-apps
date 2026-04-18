@@ -1,42 +1,40 @@
-    [
-      { "id": "discord", "name": "Discord", "desc": "Chat, voz e comunidades.", "url": "https://discord.com", "icon": "https://discord.com/assets/favicon.ico", "banner": "https://images.example.com/discord.png", "tag": "Social" },
-      { "id": "whatsapp", "name": "WhatsApp", "desc": "Mensagens e chamadas.", "url": "https://whatsapp.com", "icon": "https://www.whatsapp.com/favicon.ico", "banner": "https://images.example.com/whatsapp.png", "tag": "Social" },
-      { "id": "telegram", "name": "Telegram", "desc": "Mensagens rápidas e seguras.", "url": "https://telegram.org", "icon": "https://telegram.org/favicon.ico", "banner": "https://images.example.com/telegram.png", "tag": "Social" },
-      { "id": "instagram", "name": "Instagram", "desc": "Fotos e vídeos.", "url": "https://instagram.com", "icon": "https://instagram.com/favicon.ico", "banner": "https://images.example.com/instagram.png", "tag": "Social" },
-      { "id": "facebook", "name": "Facebook", "desc": "Rede social.", "url": "https://facebook.com", "icon": "https://facebook.com/favicon.ico", "banner": "https://images.example.com/facebook.png", "tag": "Social" },
-      { "id": "twitter", "name": "X (Twitter)", "desc": "Posts rápidos.", "url": "https://x.com", "icon": "https://x.com/favicon.ico", "banner": "https://images.example.com/x.png", "tag": "Social" },
-      { "id": "snapchat", "name": "Snapchat", "desc": "Fotos temporárias.", "url": "https://snapchat.com", "icon": "https://snapchat.com/favicon.ico", "banner": "https://images.example.com/snapchat.png", "tag": "Social" },
-      { "id": "reddit", "name": "Reddit", "desc": "Comunidades e fóruns.", "url": "https://reddit.com", "icon": "https://reddit.com/favicon.ico", "banner": "https://images.example.com/reddit.png", "tag": "Social" },
-    
-      { "id": "youtube", "name": "YouTube", "desc": "Vídeos online.", "url": "https://youtube.com", "icon": "https://youtube.com/favicon.ico", "banner": "https://images.example.com/youtube.png", "tag": "Media" },
-      { "id": "netflix", "name": "Netflix", "desc": "Streaming de filmes.", "url": "https://netflix.com", "icon": "https://netflix.com/favicon.ico", "banner": "https://images.example.com/netflix.png", "tag": "Media" },
-      { "id": "spotify", "name": "Spotify", "desc": "Música online.", "url": "https://spotify.com", "icon": "https://spotify.com/favicon.ico", "banner": "https://images.example.com/spotify.png", "tag": "Media" },
-      { "id": "twitch", "name": "Twitch", "desc": "Lives e streams.", "url": "https://twitch.tv", "icon": "https://twitch.tv/favicon.ico", "banner": "https://images.example.com/twitch.png", "tag": "Media" },
-    
-      { "id": "gmail", "name": "Gmail", "desc": "Email do Google.", "url": "https://mail.google.com", "icon": "https://mail.google.com/favicon.ico", "banner": "https://images.example.com/gmail.png", "tag": "Productivity" },
-      { "id": "outlook", "name": "Outlook", "desc": "Email Microsoft.", "url": "https://outlook.com", "icon": "https://outlook.com/favicon.ico", "banner": "https://images.example.com/outlook.png", "tag": "Productivity" },
-      { "id": "notion", "name": "Notion", "desc": "Organização e notas.", "url": "https://notion.so", "icon": "https://notion.so/favicon.ico", "banner": "https://images.example.com/notion.png", "tag": "Productivity" },
-      { "id": "trello", "name": "Trello", "desc": "Gerenciamento de tarefas.", "url": "https://trello.com", "icon": "https://trello.com/favicon.ico", "banner": "https://images.example.com/trello.png", "tag": "Productivity" },
-      { "id": "slack", "name": "Slack", "desc": "Comunicação de equipes.", "url": "https://slack.com", "icon": "https://slack.com/favicon.ico", "banner": "https://images.example.com/slack.png", "tag": "Productivity" },
-    
-      { "id": "github", "name": "GitHub", "desc": "Código e projetos.", "url": "https://github.com", "icon": "https://github.com/favicon.ico", "banner": "https://images.example.com/github.png", "tag": "Development" },
-      { "id": "gitlab", "name": "GitLab", "desc": "DevOps e código.", "url": "https://gitlab.com", "icon": "https://gitlab.com/favicon.ico", "banner": "https://images.example.com/gitlab.png", "tag": "Development" },
-      { "id": "stackoverflow", "name": "Stack Overflow", "desc": "Perguntas de programação.", "url": "https://stackoverflow.com", "icon": "https://stackoverflow.com/favicon.ico", "banner": "https://images.example.com/so.png", "tag": "Development" },
-    
-      { "id": "amazon", "name": "Amazon", "desc": "Compras online.", "url": "https://amazon.com", "icon": "https://amazon.com/favicon.ico", "banner": "https://images.example.com/amazon.png", "tag": "Shopping" },
-      { "id": "ebay", "name": "eBay", "desc": "Marketplace.", "url": "https://ebay.com", "icon": "https://ebay.com/favicon.ico", "banner": "https://images.example.com/ebay.png", "tag": "Shopping" },
-      { "id": "aliexpress", "name": "AliExpress", "desc": "Compras internacionais.", "url": "https://aliexpress.com", "icon": "https://aliexpress.com/favicon.ico", "banner": "https://images.example.com/aliexpress.png", "tag": "Shopping" },
-    
-      { "id": "uber", "name": "Uber", "desc": "Transporte.", "url": "https://uber.com", "icon": "https://uber.com/favicon.ico", "banner": "https://images.example.com/uber.png", "tag": "Travel" },
-      { "id": "airbnb", "name": "Airbnb", "desc": "Hospedagem.", "url": "https://airbnb.com", "icon": "https://airbnb.com/favicon.ico", "banner": "https://images.example.com/airbnb.png", "tag": "Travel" },
-    
-      { "id": "duolingo", "name": "Duolingo", "desc": "Aprender idiomas.", "url": "https://duolingo.com", "icon": "https://duolingo.com/favicon.ico", "banner": "https://images.example.com/duolingo.png", "tag": "Education" },
-      { "id": "khanacademy", "name": "Khan Academy", "desc": "Educação gratuita.", "url": "https://khanacademy.org", "icon": "https://khanacademy.org/favicon.ico", "banner": "https://images.example.com/khan.png", "tag": "Education" },
-    
-      { "id": "paypal", "name": "PayPal", "desc": "Pagamentos online.", "url": "https://paypal.com", "icon": "https://paypal.com/favicon.ico", "banner": "https://images.example.com/paypal.png", "tag": "Finance" },
-      { "id": "cashapp", "name": "Cash App", "desc": "Transferência de dinheiro.", "url": "https://cash.app", "icon": "https://cash.app/favicon.ico", "banner": "https://images.example.com/cashapp.png", "tag": "Finance" },
-    
-      { "id": "zoom", "name": "Zoom", "desc": "Reuniões online.", "url": "https://zoom.us", "icon": "https://zoom.us/favicon.ico", "banner": "https://images.example.com/zoom.png", "tag": "Communication" },
-      { "id": "skype", "name": "Skype", "desc": "Chamadas de vídeo.", "url": "https://skype.com", "icon": "https://skype.com/favicon.ico", "banner": "https://images.example.com/skype.png", "tag": "Communication" }
-      
-    ]
+[
+  { "id": "discord", "name": "Discord", "desc": "Chat, voice and communities.", "url": "https://discord.com", "icon": "https://discord.com/assets/favicon.ico", "banner": "https://images.example.com/discord.png", "tag": "Social" },
+  { "id": "whatsapp", "name": "WhatsApp", "desc": "Messaging and calls.", "url": "https://whatsapp.com", "icon": "https://www.whatsapp.com/favicon.ico", "banner": "https://images.example.com/whatsapp.png", "tag": "Social" },
+  { "id": "telegram", "name": "Telegram", "desc": "Fast and secure messaging.", "url": "https://telegram.org", "icon": "https://telegram.org/favicon.ico", "banner": "https://images.example.com/telegram.png", "tag": "Social" },
+  { "id": "instagram", "name": "Instagram", "desc": "Photos and videos.", "url": "https://instagram.com", "icon": "https://instagram.com/favicon.ico", "banner": "https://images.example.com/instagram.png", "tag": "Social" },
+  { "id": "facebook", "name": "Facebook", "desc": "Social network.", "url": "https://facebook.com", "icon": "https://facebook.com/favicon.ico", "banner": "https://images.example.com/facebook.png", "tag": "Social" },
+  { "id": "twitter", "name": "X (Twitter)", "desc": "Short posts and updates.", "url": "https://x.com", "icon": "https://x.com/favicon.ico", "banner": "https://images.example.com/x.png", "tag": "Social" },
+  { "id": "snapchat", "name": "Snapchat", "desc": "Temporary photos and messages.", "url": "https://snapchat.com", "icon": "https://snapchat.com/favicon.ico", "banner": "https://images.example.com/snapchat.png", "tag": "Social" },
+  { "id": "reddit", "name": "Reddit", "desc": "Communities and forums.", "url": "https://reddit.com", "icon": "https://reddit.com/favicon.ico", "banner": "https://images.example.com/reddit.png", "tag": "Social" },
+
+  { "id": "youtube", "name": "YouTube", "desc": "Online videos.", "url": "https://youtube.com", "icon": "https://youtube.com/favicon.ico", "banner": "https://images.example.com/youtube.png", "tag": "Media" },
+  { "id": "netflix", "name": "Netflix", "desc": "Movie and TV streaming.", "url": "https://netflix.com", "icon": "https://netflix.com/favicon.ico", "banner": "https://images.example.com/netflix.png", "tag": "Media" },
+  { "id": "spotify", "name": "Spotify", "desc": "Music streaming.", "url": "https://spotify.com", "icon": "https://spotify.com/favicon.ico", "banner": "https://images.example.com/spotify.png", "tag": "Media" },
+  { "id": "twitch", "name": "Twitch", "desc": "Live streaming.", "url": "https://twitch.tv", "icon": "https://twitch.tv/favicon.ico", "banner": "https://images.example.com/twitch.png", "tag": "Media" },
+
+  { "id": "gmail", "name": "Gmail", "desc": "Google email service.", "url": "https://mail.google.com", "icon": "https://mail.google.com/favicon.ico", "banner": "https://images.example.com/gmail.png", "tag": "Productivity" },
+  { "id": "outlook", "name": "Outlook", "desc": "Microsoft email service.", "url": "https://outlook.com", "icon": "https://outlook.com/favicon.ico", "banner": "https://images.example.com/outlook.png", "tag": "Productivity" },
+  { "id": "notion", "name": "Notion", "desc": "Notes and organization.", "url": "https://notion.so", "icon": "https://notion.so/favicon.ico", "banner": "https://images.example.com/notion.png", "tag": "Productivity" },
+  { "id": "trello", "name": "Trello", "desc": "Task management.", "url": "https://trello.com", "icon": "https://trello.com/favicon.ico", "banner": "https://images.example.com/trello.png", "tag": "Productivity" },
+  { "id": "slack", "name": "Slack", "desc": "Team communication.", "url": "https://slack.com", "icon": "https://slack.com/favicon.ico", "banner": "https://images.example.com/slack.png", "tag": "Productivity" },
+
+  { "id": "github", "name": "GitHub", "desc": "Code hosting and projects.", "url": "https://github.com", "icon": "https://github.com/favicon.ico", "banner": "https://images.example.com/github.png", "tag": "Development" },
+  { "id": "gitlab", "name": "GitLab", "desc": "DevOps platform.", "url": "https://gitlab.com", "icon": "https://gitlab.com/favicon.ico", "banner": "https://images.example.com/gitlab.png", "tag": "Development" },
+  { "id": "stackoverflow", "name": "Stack Overflow", "desc": "Programming Q&A.", "url": "https://stackoverflow.com", "icon": "https://stackoverflow.com/favicon.ico", "banner": "https://images.example.com/so.png", "tag": "Development" },
+
+  { "id": "amazon", "name": "Amazon", "desc": "Online shopping.", "url": "https://amazon.com", "icon": "https://amazon.com/favicon.ico", "banner": "https://images.example.com/amazon.png", "tag": "Shopping" },
+  { "id": "ebay", "name": "eBay", "desc": "Marketplace.", "url": "https://ebay.com", "icon": "https://ebay.com/favicon.ico", "banner": "https://images.example.com/ebay.png", "tag": "Shopping" },
+  { "id": "aliexpress", "name": "AliExpress", "desc": "International shopping.", "url": "https://aliexpress.com", "icon": "https://aliexpress.com/favicon.ico", "banner": "https://images.example.com/aliexpress.png", "tag": "Shopping" },
+
+  { "id": "airbnb", "name": "Airbnb", "desc": "Accommodation rentals.", "url": "https://airbnb.com", "icon": "https://airbnb.com/favicon.ico", "banner": "https://images.example.com/airbnb.png", "tag": "Travel" },
+
+  { "id": "duolingo", "name": "Duolingo", "desc": "Language learning.", "url": "https://duolingo.com", "icon": "https://duolingo.com/favicon.ico", "banner": "https://images.example.com/duolingo.png", "tag": "Education" },
+  { "id": "khanacademy", "name": "Khan Academy", "desc": "Free education platform.", "url": "https://khanacademy.org", "icon": "https://khanacademy.org/favicon.ico", "banner": "https://images.example.com/khan.png", "tag": "Education" },
+
+  { "id": "paypal", "name": "PayPal", "desc": "Online payments.", "url": "https://paypal.com", "icon": "https://paypal.com/favicon.ico", "banner": "https://images.example.com/paypal.png", "tag": "Finance" },
+  { "id": "cashapp", "name": "Cash App", "desc": "Money transfers.", "url": "https://cash.app", "icon": "https://cash.app/favicon.ico", "banner": "https://images.example.com/cashapp.png", "tag": "Finance" },
+
+  { "id": "zoom", "name": "Zoom", "desc": "Online meetings.", "url": "https://zoom.us", "icon": "https://zoom.us/favicon.ico", "banner": "https://images.example.com/zoom.png", "tag": "Communication" },
+  { "id": "skype", "name": "Skype", "desc": "Video calls.", "url": "https://skype.com", "icon": "https://skype.com/favicon.ico", "banner": "https://images.example.com/skype.png", "tag": "Communication" }
+]

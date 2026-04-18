@@ -19,7 +19,7 @@
   { "id": "trello", "name": "Trello", "desc": "Task management.", "url": "https://trello.com", "icon": "https://trello.com/favicon.ico", "banner": "https://images.example.com/trello.png", "tag": "Productivity" },
   { "id": "slack", "name": "Slack", "desc": "Talking.", "url": "https://slack.com", "icon": "https://slack.com/favicon.ico", "banner": "https://images.example.com/slack.png", "tag": "Productivity" },
 
-  { "id": "github", "name": "GitHub", "desc": "Code hosting and projects.", "url": "https://github.com", "icon": "https://github.com/favicon.ico", "banner": "https://images.example.com/github.png", "tag": "Development" },
+  { "id": "github", "name": "GitHub", "desc": "Code hosting and projects.", "url": "https://github.com", "icon": "https://iconscout.com/icons/github-logo", "banner": "https://images.example.com/github.png", "tag": "Development" },
   { "id": "gitlab", "name": "GitLab", "desc": "DevOps platform.", "url": "https://gitlab.com", "icon": "https://gitlab.com/favicon.ico", "banner": "https://images.example.com/gitlab.png", "tag": "Development" },
   { "id": "stackoverflow", "name": "Stack Overflow", "desc": "Programming Q&A.", "url": "https://stackoverflow.com", "icon": "https://stackoverflow.com/favicon.ico", "banner": "https://images.example.com/so.png", "tag": "Development" },
 
